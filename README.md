@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Link to our video
 
+https://youtu.be/qH7dx6xgtOA
+
 ### Group Members
 <ul>
   <li>Ryan Apreala</li>
