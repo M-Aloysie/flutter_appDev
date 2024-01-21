@@ -1,6 +1,6 @@
 # Mobile Application Development
 
-A new Flutter project.
+A new Flutter Group project.
 
 ## Getting Started with Flutter Application
 
@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Link to our video
+
+### Group Members
+<ul>
+  <li>Ryan Apreala</li>
+  <li>Aloysie Murekatete</li>
+  <li>Jacqueline Tuyisenge</li>
+</ul>
