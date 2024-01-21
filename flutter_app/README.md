@@ -1,8 +1,8 @@
-# flutter_app
+# Mobile Application Development
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started with Flutter Application
 
 This project is a starting point for a Flutter application.
 
